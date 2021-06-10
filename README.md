@@ -69,4 +69,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Finalmente 🎁
 
-El presente proyecto se ha realizado con muy buena actitud y deseo de realizar un desarrollo de calidad.
+El presente proyecto se ha realizado con muy buena actitud y deseo de realizar un desarrollo de calidad deseando que se cubran las espectactivas del evaluador.
