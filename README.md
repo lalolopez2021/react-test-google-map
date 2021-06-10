@@ -42,8 +42,8 @@ npm start
 * Desarrollado en React
 * Implementación de Redux con la finalidad de gestioanr el estado de los markers
 * Implementación de buenas prácticas para utilizar componentes desacoplados y controlar los renders
-* Implementación webpack con la finalidad de optimizar el Bundle
-* Implementación de test
+* Implementación y configuración de webpack con la finalidad de optimizar el Bundle
+* Implementación de test para pruebas unitarias
 
 
 ## Funcionalidades 🖇️
