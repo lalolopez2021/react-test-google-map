@@ -64,7 +64,7 @@ npm run build
 ## Expecificación técnica 🛠️
 
 * Desarrollado en React
-* Implementación de Redux con la finalidad de gestioanr el estado de los markers
+* Implementación de Redux con la finalidad de gestionar el estado de los markers
 * Implementación de componentes desacoplados y control de renders
 * Implementación y configuración de webpack con la finalidad de optimizar el Bundle
 * Implementación de test para pruebas unitarias
