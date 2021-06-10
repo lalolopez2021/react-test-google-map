@@ -14,6 +14,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto para su funci
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git](https://git-scm.com/)
 * [Node](https://nodejs.org/es/)
+* [Google Map API KEY](https://console.cloud.google.com/) 
 
 
 
