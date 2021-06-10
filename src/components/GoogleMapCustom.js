@@ -15,7 +15,6 @@ const Wrapper = styled.main`
 `;
 
 const GOOGLEMAP_KEY = process.env.GOOGLEMAP_KEY;
-//const { GOOGLEMAP_KEY } = envVariables;
 
 class GoogleMapCustom extends Component {
 
