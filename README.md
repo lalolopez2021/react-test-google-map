@@ -53,21 +53,21 @@ _Para compilar para producción:_
 npm run build
 ```
 
+## Funcionalidades 🖇️
+
+* Al iniciar muestra la ubicación actual en un mapa de google y una caja de texto para realizar la búsqueda de ubicaciones.
+* Para buscar una ubicación se mostrará una lista de ubicaciones sugeridas en base al texto ingresado, visualizando en negrita el texto coincidente.
+* Al seleccionar una hubicación se adicionará un marker en el mapa y se mostrará la ubicación.
+* Al reducir el zoom se podrá visualizar todas las ubicaciones seleccionadas.
+
+
 ## Expecificación técnica 🛠️
 
 * Desarrollado en React
 * Implementación de Redux con la finalidad de gestioanr el estado de los markers
-* Implementación de buenas prácticas para utilizar componentes desacoplados y controlar los renders
+* Implementación de componentes desacoplados y control de renders
 * Implementación y configuración de webpack con la finalidad de optimizar el Bundle
 * Implementación de test para pruebas unitarias
-
-
-## Funcionalidades 🖇️
-
-* Al iniciar muestra la ubicación actual en un mapa de google y una caja de texto para realizar la búsqueda de una ubicación
-* Para buscar una ubicación se mostrará una lista sugeridad de ubicaciones en base al texto ingresado visualizando el negrita el texto coincidente
-* Al seleccionar una hubicación se adicionará un marker en el mapa y se mostrará la ubicación
-* Al minimizar el zoom se podrá visualizar todas las ubicaciones seleccionadas
 
 
 ## Versionado 📌
