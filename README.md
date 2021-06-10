@@ -7,7 +7,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto para su funci
 
 ### Pre-requisitos 📋
 
-```
+
 * [Google Chrome] (https://www.google.com/chrome/)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es&authuser=1)
 * [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es)
@@ -15,7 +15,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto para su funci
 * [Git](https://git-scm.com/)
 * [Node](https://nodejs.org/es/)
 
-```
+
 
 ### Instalación 🔧
 
