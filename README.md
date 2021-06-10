@@ -36,6 +36,13 @@ _Luego para levanrar la aplicación:_
 
 npm start
 
+_Para ejecutar la prueba:_
+
+npm test
+
+_Para compilar para producción:_
+
+npm run build
 
 ## Expecificación técnica 🛠️
 
