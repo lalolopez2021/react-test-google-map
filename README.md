@@ -33,6 +33,8 @@ _Luego ingresas al repositorio donde has descargado el proyecto e instalas las l
 npm install
 ```
 
+_Luego colocar el **Google Maps API KEY** en "/enviroments/.env", reemplazando las "XXXXXX"_
+
 _Luego para levanrar la aplicación:_
 
 npm start
