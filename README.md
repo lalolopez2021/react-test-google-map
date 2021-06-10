@@ -1,6 +1,5 @@
-# Título del Proyecto
+# TAXPE - Prueba Técnica Frontend - React 
 
-AXPE - Prueba Técnica Frontend - React 
 
 ## Comenzando 🚀
 
@@ -38,10 +37,6 @@ _Luego para levanrar la aplicación:_
 
 npm start
 
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Expecificación técnica 🛠️
 
